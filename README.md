@@ -8,9 +8,9 @@
 
 ## Lingkungan Pengembangan
 
-1. Platform: .NET 6.0
-2. Bahasa: C# 10
-3. IDE: Visual Studio 2022
+1. Platform: .NET 10
+2. Bahasa: C# 14
+3. IDE: Visual Studio 2026 atau VSCode
 
 ## Cara membuka project menggunakan Visual Studio
 
